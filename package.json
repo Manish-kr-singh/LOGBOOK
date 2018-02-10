@@ -1,0 +1,22 @@
+{
+  "name": "bloggerz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "blogs"
+  ],
+  "author": "manish",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "express-handlebars": "^3.0.0",
+    "markdown-it": "^8.4.0",
+    "markdown-it-linkify-images": "^1.0.0",
+    "mongoose": "^5.0.0-rc2"
+  }
+}
